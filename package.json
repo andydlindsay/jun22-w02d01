@@ -1,0 +1,29 @@
+{
+  "name": "jun22-w02d01",
+  "version": "1.1.1",
+  "description": "Week 2 Day 1 lecture on mocha and chai",
+  "main": "hello.js",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andydlindsay/jun22-w02d01.git"
+  },
+  "keywords": [
+    "mocha",
+    "chai",
+    "testing",
+    "fun"
+  ],
+  "author": "Andy Lindsay",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andydlindsay/jun22-w02d01/issues"
+  },
+  "homepage": "https://github.com/andydlindsay/jun22-w02d01#readme",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^8.0.1"
+  }
+}
